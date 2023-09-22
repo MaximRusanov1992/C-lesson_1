@@ -1,0 +1,15 @@
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.csproj.AssemblyReference.cache
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfoInputs.cache
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfo.cs
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.csproj.CoreCompileInputs.cache
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\bin\Debug\net6.0\Sem1.exe
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\bin\Debug\net6.0\Sem1.deps.json
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\bin\Debug\net6.0\Sem1.runtimeconfig.json
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\bin\Debug\net6.0\Sem1.dll
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\bin\Debug\net6.0\Sem1.pdb
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.dll
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\refint\Sem1.dll
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.pdb
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\Sem1.genruntimeconfig.cache
+E:\Учеба IT\C#\C-lesson_1\Seminar\Sem1\obj\Debug\net6.0\ref\Sem1.dll
