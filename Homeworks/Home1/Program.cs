@@ -65,18 +65,40 @@
 //-3 -> нет
 //7 -> нет
 
-System.Console.WriteLine("input number: ");
-int num = Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine("input number: ");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-if (num%2==0)
-{
-   System.Console.WriteLine("да");
-}
-else
-{
-   System.Console.WriteLine("нет");
-}
+// if (num%2==0)
+// {
+//    System.Console.WriteLine("да");
+// }
+// else
+// {
+//    System.Console.WriteLine("нет");
+// }
 
 //Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
+
+System.Console.WriteLine("input number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int count = 1;
+while (count<num)
+{
+    if (count%2==0)
+        if (count%2==0 & num == count+1 | num == count+2)
+        {
+            System.Console.Write(count);
+            count++;
+        }
+        else
+        {
+            System.Console.Write($"{count}, ");
+            count++;
+        }
+    else 
+    {
+        count++;
+    }
+}    
