@@ -25,45 +25,57 @@
 //44 5 78 -> 78
 //22 3 9 -> 22
 
-System.Console.WriteLine("Введите первое число: ");
-int num1 = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine("Введите второе число: ");
-int num2 = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine("Введите третье число: ");
-int num3 = Convert.ToInt32(Console.ReadLine());
-if (num1 > num2 && num1>num3)
-{
-    System.Console.WriteLine($"max={num1} " );
-}
-if (num2 > num1 && num2>num3)
-{
-    System.Console.WriteLine($"max={num2} " );
-}
-if (num3 > num1 && num3>num2)
-{
-    System.Console.WriteLine($"max={num3} " );
-}
-if (num3 == num1 && num3>num2)
-{
-    System.Console.WriteLine($"max={num3} " );
-}
-if (num2 == num1 && num2>num3)
-{
-    System.Console.WriteLine($"max={num2} " );
-}
-if (num2 == num3 && num2>num1)
-{
-    System.Console.WriteLine($"max={num2} " );
-}
-if (num2 == num1 && num1 == num3)
-{
-    System.Console.WriteLine("числа равны");
-}
+// System.Console.WriteLine("Введите первое число: ");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine("Введите второе число: ");
+// int num2 = Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine("Введите третье число: ");
+// int num3 = Convert.ToInt32(Console.ReadLine());
+// if (num1 > num2 && num1>num3)
+// {
+//     System.Console.WriteLine($"max={num1} " );
+// }
+// if (num2 > num1 && num2>num3)
+// {
+//     System.Console.WriteLine($"max={num2} " );
+// }
+// if (num3 > num1 && num3>num2)
+// {
+//     System.Console.WriteLine($"max={num3} " );
+// }
+// if (num3 == num1 && num3>num2)
+// {
+//     System.Console.WriteLine($"max={num3} " );
+// }
+// if (num2 == num1 && num2>num3)
+// {
+//     System.Console.WriteLine($"max={num2} " );
+// }
+// if (num2 == num3 && num2>num1)
+// {
+//     System.Console.WriteLine($"max={num2} " );
+// }
+// if (num2 == num1 && num1 == num3)
+// {
+//     System.Console.WriteLine("числа равны");
+// }
 
 //Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 //4 -> да
 //-3 -> нет
 //7 -> нет
+
+System.Console.WriteLine("input number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if (num%2==0)
+{
+   System.Console.WriteLine("да");
+}
+else
+{
+   System.Console.WriteLine("нет");
+}
 
 //Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 //5 -> 2, 4
