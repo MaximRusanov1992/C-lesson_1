@@ -1,0 +1,15 @@
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.csproj.AssemblyReference.cache
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.AssemblyInfoInputs.cache
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.AssemblyInfo.cs
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.csproj.CoreCompileInputs.cache
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\bin\Debug\net6.0\Home1.exe
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\bin\Debug\net6.0\Home1.deps.json
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\bin\Debug\net6.0\Home1.runtimeconfig.json
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\bin\Debug\net6.0\Home1.dll
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\bin\Debug\net6.0\Home1.pdb
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.dll
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\refint\Home1.dll
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.pdb
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\Home1.genruntimeconfig.cache
+E:\Учеба IT\C#\C-lesson_1\Homeworks\Home1\obj\Debug\net6.0\ref\Home1.dll
